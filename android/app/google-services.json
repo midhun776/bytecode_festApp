@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848300238155",
+    "project_id": "bytecodedb",
+    "storage_bucket": "bytecodedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848300238155:android:639d1973495488754bf4ce",
+        "android_client_info": {
+          "package_name": "com.example.bytecode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1vu57xld4QYL0gom_aQtoj1eS7EHcb80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
